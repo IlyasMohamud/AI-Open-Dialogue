@@ -1,6 +1,7 @@
 ---
-title: "Preview Mode for Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Closing regulatory gaps through non-proliferation, Week 15"
+excerpt: "Navigating the tightrope of AI's promise and peril, we find ourselves at a crossroads: closing regulatory gaps through non-proliferation. But as we tread this path, a lingering question haunts our steps—should we really place our trust in the U.S. to lead the way? In this discussion, we'll explore the intricate dance of global AI governance and the trust we place in powers steering its course.
+"
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2024-04-08T05:35:07.322Z"
 author:
