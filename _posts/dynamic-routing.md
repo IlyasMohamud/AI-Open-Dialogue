@@ -7,10 +7,11 @@ excerpt: "Welcome to my Blog! I'm a 24-year-old currently pursuing a Master's de
           Follow along as I share my journey and projects in these exciting fields. 
           Let's connect and collaborate to drive positive change through technology!"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-04-08T05:35:07.322Z"
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: Ilyas Mohamud
+  picture: "/assets/blog/authors/ilyas logo.png"
+ 
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
