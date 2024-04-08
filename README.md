@@ -1,8 +1,14 @@
 # Updates
 
+## First review
+
 Trying to personalize the page.
 I have started to understand the components and how they are used.
 Trying to slowly change the contents so that i have a personal page.
+
+## Second review
+
+For some reason, i can only use one photo per post
 
 ## A statically generated blog example using Next.js, Markdown, and TypeScript
 
