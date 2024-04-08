@@ -13,25 +13,20 @@ export function Footer() {
           📍 Bergen, UiB Alum
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+            
             <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="x-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >
-              Github
-            </a>
-            <a
-              href={`https://www.linkedin.com/in/ilyasahmedmohamud/`}
+              href={`https://github.com/IlyasMohamud`}
               className="x-3 bg-blue-600 hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
               
             >
-              LinkedIn
+              Github
             </a>
             <a
               href={`https://www.linkedin.com/in/ilyasahmedmohamud/`}
               className="x-3 bg-blue-900 hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
               
             >
-              Source Code
+              LinkedIn
             </a>
             
             
