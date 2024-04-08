@@ -22,6 +22,13 @@ export function Footer() {
             >
               View on GitHub
             </a>
+            <a
+              href={`https://github.com/IlyasMohamud`}
+              className=" bg-blue-500 text-white px-4 py-2 mx-3 rounded hover:bg-blue-700"
+            >
+              My Github
+            </a>
+            
           </div>
         </div>
       </Container>
