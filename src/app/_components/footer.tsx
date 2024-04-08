@@ -7,7 +7,10 @@ export function Footer() {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            Statically Generated with Next.js.
+          🔍 Master's student in Informatics | 🧠 Diving deep into machine learning & web dev
+          🚀 Exploring tech, one project at a time | 🌱 Growing through code
+          📚 Sharing my learning journey | 🤝 Let's connect!
+          📍 Bergen, UiB Alum
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
@@ -18,16 +21,17 @@ export function Footer() {
             </a>
             <a
               href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="mx-3 font-bold hover:underline"
+              className=" bg-blue-500 text-white px-4 py-2 mx-3 rounded hover:bg-blue-700"
             >
-              View on GitHub
+              Github
             </a>
             <a
               href={`https://github.com/IlyasMohamud`}
-              className=" bg-blue-500 text-white px-4 py-2 mx-3 rounded hover:bg-blue-700"
+              className="bg-pink-500 text-white px-4 py-2 mx-3 rounded hover:bg-pink-600"
             >
-              My Github
+              Instagram
             </a>
+            
             
           </div>
         </div>
