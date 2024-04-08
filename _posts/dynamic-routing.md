@@ -40,6 +40,6 @@ I created this blog as a way to document my journey, the projects I'm working on
 
 ## Let's Connect
 
-If you're into tech, curious about machine learning, or just want to say hi, feel free to reach out. I'm always open to discussing ideas, collaborating on projects, or just chatting about the latest in technology. 
+If you're into tech, curious about machine learning, or just want to say hi, feel free to reach out. I'm always open to discussing ideas, collaborating on projects, or just chatting about the latest in technology.
 
 Thanks for dropping by, and I hope you stick around!
