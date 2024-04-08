@@ -1,6 +1,11 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Introduction"
+excerpt: "Welcome to my Blog! I'm a 24-year-old currently pursuing a Master's degree in Informatics at UiB, 
+          after completing my Bachelor's degree in Data Technology at the same university. 
+          With a strong passion for machine learning and web development, 
+          I'm dedicated to exploring innovative technologies and leveraging them to create impactful solutions. 
+          Follow along as I share my journey and projects in these exciting fields. 
+          Let's connect and collaborate to drive positive change through technology!"
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
