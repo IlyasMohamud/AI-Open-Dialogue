@@ -1,4 +1,10 @@
-# A statically generated blog example using Next.js, Markdown, and TypeScript
+# Updates
+
+Trying to personalize the page.
+I have started to understand the components and how they are used.
+Trying to slowly change the contents so that i have a personal page.
+
+## A statically generated blog example using Next.js, Markdown, and TypeScript
 
 This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
 
