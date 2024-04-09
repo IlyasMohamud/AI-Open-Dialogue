@@ -24,6 +24,10 @@ Welcome! I'm 24, deep into getting my Master's in Informatics at UiB, where I al
 
 Originally, I got into tech because I loved the idea of creating things that could solve real problems or make life easier in some way. After getting my hands dirty with a few programming languages and projects, I realized machine learning was where my heart truly lies. It's this incredible blend of technology, math, and a bit of magic that has the power to transform industries and even our day-to-day lives.
 
+## Why I Started This Blog
+
+I started this blog because I'm part of the Bergen AI Governing Group, and we're all about making sure AI is safe. I got really interested in how amazing AI can be but also how it can be risky if we're not careful. Here, I want to talk about all the things we're learning about keeping AI under control and safe. This blog is a place where we can chat about how to deal with AI’s big risks and share stories and ideas on making AI better for everyone. Let's figure out this AI adventure together, making sure it’s good for the world.
+
 ## What Drives Me
 
 ### The Magic of Machine Learning
@@ -33,10 +37,6 @@ There's something almost magical about teaching a computer to learn from data an
 ### Building and Experimenting
 
 Apart from machine learning, I'm also really into developing websites and apps. Starting with just an idea and then coding it into existence is super rewarding. I've worked on a few projects, both for fun and for my studies, and each one teaches me something new. I'm all about learning by doing, and I believe the best way to understand something is to try to build it yourself.
-
-## Why I Started This Blog
-
-I created this blog as a way to document my journey, the projects I'm working on, and the things I'm learning along the way. It's also a place to connect with others who share similar interests or are curious about the world of tech. I believe in sharing knowledge and learning from each other, and I hope you'll find something here that inspires or helps you in some way.
 
 ## Let's Connect
 
