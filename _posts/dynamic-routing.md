@@ -13,7 +13,7 @@ author:
   picture: "/assets/blog/authors/ilyas logo.png"
  
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "/assets/blog/dynamic-routing/cover 2.jpg"
 ---
 
 ## Hi and welcome to my blog page
