@@ -5,9 +5,11 @@ import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
 
 export default function Index() {
-  const allPosts = getAllPosts();
+  const allPostsFirst = getAllPosts().reverse();
 
-  const heroPost = allPosts[0];
+  const heroPost = allPostsFirst[0];
+
+  const allPosts = getAllPosts()
 
   const morePosts = allPosts.slice(1);
 
