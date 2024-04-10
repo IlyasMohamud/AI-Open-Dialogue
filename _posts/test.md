@@ -8,7 +8,7 @@ author:
   name: Ilyas Mohamud
   picture: "/assets/blog/authors/ilyas.jpeg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/test/cover.jpg"
 ---
 
 
