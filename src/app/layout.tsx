@@ -1,5 +1,5 @@
 import Footer from "@/app/_components/footer";
-import {HOME_OG_IMAGE_URL } from "/favicon/ilyas_logo_512x512.png";
+
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: `Ilyas's blog`,
   description: `Blog created to share my thoughs about AI Governence`,
   openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    images: "/favicon/ilyas_logo_512x512.png",
   },
 };
 
