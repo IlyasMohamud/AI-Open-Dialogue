@@ -1,6 +1,5 @@
 import Container from "@/app/_components/container";
-import { EXAMPLE_PATH } from "@/lib/constants";
-import { CMS_NAME } from "@/lib/constants";
+
 
 export function Footer() {
   return (
@@ -14,16 +13,7 @@ export function Footer() {
           📍 Bergen, UiB Alum
           </h3>
 
-          <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog using{" "}
-        <a
-          href="https://nextjs.org/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Next.js
-        </a>{" "}
-        and {CMS_NAME}.
-        </h4>
+          
 
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             

@@ -9,7 +9,7 @@ export default function Index() {
 
   const heroPost = allPosts[0];
 
-  const morePosts = allPosts.slice(1).reverse();
+  const morePosts = allPosts.slice(1);
 
   return (
     <main>
