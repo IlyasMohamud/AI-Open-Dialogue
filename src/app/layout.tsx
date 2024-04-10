@@ -1,5 +1,5 @@
 import Footer from "@/app/_components/footer";
-import {HOME_OG_IMAGE_URL } from "https://ibb.co/Phr6fWT";
+import {HOME_OG_IMAGE_URL } from "/favicon/ilyas_logo_512x512.png";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
