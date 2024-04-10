@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: `Ilyas's blog`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  description: `Blog created to share my thoughs about AI Governence`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -32,13 +32,13 @@ export default function RootLayout({
           rel="icon"
           type="image/png"
           sizes="32x32"
-          href="/favicon/favicon-32x32.png"
+          href="/favicon/ilyas_logo_32x32.png"
         />
         <link
           rel="icon"
           type="image/png"
           sizes="16x16"
-          href="/favicon/favicon-16x16.png"
+          href="/favicon/ilyas_logo_16x16.png"
         />
         <link rel="manifest" href="/favicon/site.webmanifest" />
         <link
@@ -46,7 +46,7 @@ export default function RootLayout({
           href="/favicon/safari-pinned-tab.svg"
           color="#000000"
         />
-        <link rel="shortcut icon" href="/favicon/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon/ilyas_favicon.ico" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="msapplication-config"
