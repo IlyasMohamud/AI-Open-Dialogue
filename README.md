@@ -8,6 +8,10 @@ For the blog posts, I use something called Markdown files. They're pretty easy t
 
 In essence, this project was about learning through practice. I wanted to see if I could take a basic template and make it into something uniquely mine. The result is this blog, a personal project that taught me a lot about web development with Next.js.
 
-## Updates
+## Link
 
-Not planning on doing anymore updates on this webpage rather than putting out new blog posts, Planning on making a webpage completly from scratch using Next.Js.
+[Link to the blog](https://ai-open-dialogue.vercel.app/)
+
+## Updates/Plans
+
+Not doing anymore updates on this webpage rather than putting out new blog posts, Planning on making a webpage completly from scratch using Next.Js.
