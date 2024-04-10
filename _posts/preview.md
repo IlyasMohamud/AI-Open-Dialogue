@@ -53,4 +53,3 @@ This document presents a critical analysis of the current state of AI chips prod
 ## Conclusion
 
 The discourse around AI chips governance and the global supply chain is complex, with significant U.S. control and a notable bias in discussions. This analysis calls for a more balanced view that considers the interests and capabilities of all global players in the AI arena.
-
