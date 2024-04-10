@@ -1,5 +1,5 @@
 ---
-title: "Testing structure"
+title: "Closing regulatory gaps through international agreements"
 excerpt: "
 TODO"
 coverImage: "/assets/blog/test/cover.jpg"
