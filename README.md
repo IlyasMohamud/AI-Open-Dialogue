@@ -10,6 +10,10 @@ Trying to slowly change the contents so that i have a personal page.
 
 For some reason, i can only use one photo per post
 
+## Third review
+
+i am able to add new blogs but it starts from oldest posts to newest
+
 ## A statically generated blog example using Next.js, Markdown, and TypeScript
 
 This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.

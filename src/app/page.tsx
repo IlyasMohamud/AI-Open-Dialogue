@@ -9,7 +9,11 @@ export default function Index() {
 
   const heroPost = allPosts[0];
 
-  const morePosts = allPosts.slice(1);
+  const allNewPosts = getAllPosts().reverse(); 
+
+  const listlen = allNewPosts.length -1
+
+  const morePosts = allNewPosts.slice(listlen);
 
   return (
     <main>
