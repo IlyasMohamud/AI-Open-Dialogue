@@ -2,7 +2,7 @@
 title: "Testing structure"
 excerpt: "
 TODO"
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/test/cover.jpg"
 date: "2024-04-08T05:35:07.322Z"
 author:
   name: Ilyas Mohamud
